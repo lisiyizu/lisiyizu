@@ -12,4 +12,4 @@
 
 
 ### GitHub
-![lisiyizu's github](https://github-readme-stats.vercel.app/api?username=lisiyizu&show_icons=true&title_color=FF4C3B&icon_color=FFD034&text_color=333333&bg_color=ffffff)
+![lisiyizu's github](https://github-readme-stats.vercel.app/api?username=lisiyizu&show_icons=true&title_color=409EFF&icon_color=409EFF&text_color=333333&bg_color=ffffff)
