@@ -6,9 +6,9 @@
 
 ### VSCode-开源插件
 
-- [vscode-yapi「接口文档高效工具」](https://github.com/lisiyizu/vscode-yapi) ([下载地址](https://marketplace.visualstudio.com/items?itemName=kummy.vscode-yapi))
+- [vscode-yapi「接口文档高效工具」](https://github.com/lisiyizu/vscode-yapi) ([下载安装](https://marketplace.visualstudio.com/items?itemName=kummy.vscode-yapi))
 
-- [vscode-ali-oss「阿里云OSS高效工具」](https://github.com/lisiyizu/vscode-ali-oss) ([下载地址](https://marketplace.visualstudio.com/items?itemName=kummy.vscode-ali-oss))
+- [vscode-ali-oss「阿里云OSS高效工具」](https://github.com/lisiyizu/vscode-ali-oss) ([下载安装](https://marketplace.visualstudio.com/items?itemName=kummy.vscode-ali-oss))
 
 
 ### GitHub
