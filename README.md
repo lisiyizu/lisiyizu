@@ -1,8 +1,6 @@
 ### About
 
-考虑工作机会，欢迎发邮件。
-
-邮箱：lisiyizu1121@163.com
+考虑工作机会，欢迎发邮件[lisiyizu1121@163.com]
 
 ### VSCode-开源插件
 - [vscode-yapi「接口文档高效工具」](https://github.com/lisiyizu/vscode-yapi) ([下载安装](https://marketplace.visualstudio.com/items?itemName=kummy.vscode-yapi))
