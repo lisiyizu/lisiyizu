@@ -6,7 +6,7 @@
 - [vscode-yapi「接口文档高效工具」](https://github.com/lisiyizu/vscode-yapi) ([下载安装](https://marketplace.visualstudio.com/items?itemName=kummy.vscode-yapi))
 <p>
      &nbsp;&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=kummy.vscode-yapi" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/kummy.vscode-yapi?color=blue&amp;label=version&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=kummy.vscode-yapi" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/kummy.vscode-yapi?color=blue&amp;label=version" alt="Visual Studio Marketplace Version" /></a>
     <a href="https://marketplace.visualstudio.com/items?itemName=kummy.vscode-yapi" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/d/kummy.vscode-yapi?color=4bdbe3" alt="Visual Studio Marketplace Downloads" /></a>
     <a href="https://marketplace.visualstudio.com/items?itemName=kummy.vscode-yapi" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/i/kummy.vscode-yapi?color=63ba83" alt="Visual Studio Marketplace Installs" /></a>
 </p>
@@ -14,7 +14,7 @@
 - [vscode-ali-oss「阿里云OSS高效工具」](https://github.com/lisiyizu/vscode-ali-oss) ([下载安装](https://marketplace.visualstudio.com/items?itemName=kummy.vscode-ali-oss))
 <p>
     &nbsp;&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=kummy.vscode-ali-oss" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/kummy.vscode-ali-oss?color=blue&amp;label=version&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=kummy.vscode-ali-oss" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/kummy.vscode-ali-oss?color=blue&amp;label=version" alt="Visual Studio Marketplace Version" /></a>
     <a href="https://marketplace.visualstudio.com/items?itemName=kummy.vscode-ali-oss" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/d/kummy.vscode-ali-oss?color=4bdbe3" alt="Visual Studio Marketplace Downloads" /></a>
     <a href="https://marketplace.visualstudio.com/items?itemName=kummy.vscode-ali-oss" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/i/kummy.vscode-ali-oss?color=63ba83" alt="Visual Studio Marketplace Installs" /></a>
 </p>
@@ -22,7 +22,7 @@
 - [vscode-css-doodle](https://github.com/lisiyizu/vscode-css-doodle) ([下载安装](https://marketplace.visualstudio.com/items?itemName=kummy.vscode-css-doodle))
 <p>
     &nbsp;&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=kummy.vscode-css-doodle" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/kummy.vscode-css-doodle?color=blue&amp;label=version&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=kummy.vscode-css-doodle" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/kummy.vscode-css-doodle?color=blue&amp;label=version" alt="Visual Studio Marketplace Version" /></a>
     <a href="https://marketplace.visualstudio.com/items?itemName=kummy.vscode-css-doodle" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/d/kummy.vscode-css-doodle?color=4bdbe3" alt="Visual Studio Marketplace Downloads" /></a>
     <a href="https://marketplace.visualstudio.com/items?itemName=kummy.vscode-css-doodle" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/i/kummy.vscode-css-doodle?color=63ba83" alt="Visual Studio Marketplace Installs" /></a>
 </p>
