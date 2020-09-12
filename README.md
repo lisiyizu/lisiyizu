@@ -1,9 +1,5 @@
 [![Matrix SVG](https://fe.apidevelop.com/matrix.svg)](https://github.com/lisiyizu)
 
-### 联系方式
-
-「目前正在考虑工作机会，邮箱地址」：lisiyizu1121@163.com
-
 ### 开源插件
 - [vscode-yapi「接口文档高效工具」](https://github.com/lisiyizu/vscode-yapi) ([下载安装](https://marketplace.visualstudio.com/items?itemName=kummy.vscode-yapi))
 <p>
