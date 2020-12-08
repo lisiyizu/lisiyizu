@@ -9,6 +9,13 @@
     <a href="https://marketplace.visualstudio.com/items?itemName=kummy.vscode-yapi" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/i/kummy.vscode-yapi?color=63ba83" alt="Visual Studio Marketplace Installs" /></a>
 </p>
 
+- [el-form-schema「中后台表单解决方案」](https://github.com/lisiyizu/el-form-schema)
+<p>
+     &nbsp;&nbsp;
+    <img src="https://img.shields.io/npm/v/@kummy/el-form-schema.svg?style=flat-square" alt="npm version" />
+    <img src="https://img.shields.io/npm/dt/@kummy/el-form-schema.svg?style=flat-square" alt="npm download" />
+</p>
+
 - [vscode-ali-oss「阿里云OSS高效工具」](https://github.com/lisiyizu/vscode-ali-oss) ([下载安装](https://marketplace.visualstudio.com/items?itemName=kummy.vscode-ali-oss))
 <p>
     &nbsp;&nbsp;
