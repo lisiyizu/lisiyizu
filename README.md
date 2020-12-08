@@ -5,7 +5,7 @@
 <p>
      &nbsp;&nbsp;
     <img src="https://img.shields.io/npm/v/@kummy/el-form-schema.svg?style=flat-square" alt="npm version" />
-    <img src="https://img.shields.io/npm/dt/@kummy/el-form-schema.svg?style=flat-square" alt="npm download" />
+    <img src="https://img.shields.io/npm/dt/@kummy/el-form-schema.svg?style=flat-square&color=63ba83" alt="npm download" />
 </p>
 
 - [vscode-yapi「接口文档高效工具」](https://github.com/lisiyizu/vscode-yapi) ([下载安装](https://marketplace.visualstudio.com/items?itemName=kummy.vscode-yapi))
