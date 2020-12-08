@@ -1,7 +1,7 @@
 [![Matrix SVG](https://fe.apidevelop.com/matrix.svg)](https://github.com/lisiyizu)
 
 ### 开源插件
-- [el-form-schema「中后台表单解决方案」](https://github.com/lisiyizu/el-form-schema)
+- [el-form-schema「中后台表单解决方案」](https://github.com/lisiyizu/el-form-schema)[vuepress文档地址](http://efs.apidevelop.com/)
 <p>
      &nbsp;&nbsp;
     <img src="https://img.shields.io/npm/v/@kummy/el-form-schema.svg?style=flat-square" alt="npm version" />
